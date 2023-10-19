@@ -1,0 +1,579 @@
+ - UWSA 1, 58%, 48%, 53%, 48% = ~==179== [[2022-01-09]]
+	![[Screen Shot 2022-06-21 at 11.01.22 AM.png]]
+	 - Incorrects: 
+		- [[Screen Shot 2022-01-09 at 9.43.10 PM.png]]
+		- [[Screen Shot 2022-01-09 at 9.42.34 PM.png]]
+		- [[Screen Shot 2022-01-09 at 9.41.53 PM.png]]
+		- [[Key defense mechanisms.png]]
+		- [[Screen Shot 2022-01-09 at 9.41.43 PM.png]]
+		- [[Screen Shot 2022-01-09 at 9.31.31 PM.png]]
+		- [[Molluscum contagiosum histology.png]]
+		- [[Screen Shot 2022-01-09 at 9.08.45 PM.png]]
+		- [[Screen Shot 2022-01-09 at 9.08.57 PM.png]]
+		- [[IL-2 UWorld Explanation.png]]
+		- [[Screen Shot 2022-01-09 at 11.07.02 PM.png]] <!--SR:!2022-07-01,3,250-->	
+- Amboss Step 1 SA, ==201== - [[2021-03-01]]
+- CBSE, ==202== - [[2021-03-05]]
+	![[bergholz_daniel_richard_13388361.pdf]] <!--SR:!2022-07-01,3,250-->
+- [[NBME 26]], ==195== - [[2022-01-16]]
+		[[Pasted image 20220621105653.png]]
+- Free 120, 78% - ==230== [[2022-05-24]]
+	- 30 out of 40 on Exam Section 1 75% correct 
+	- 33 out of 40 on Exam Section 2 83% correct 
+	- 30 out of 40 on Exam Section 3 75% correct 
+	- 93 out of 120 for this examination 78% correct <!--SR:!2022-07-01,3,250-->
+- [[NBME 25]] - ==61==% - [[2022-06-19]]
+- [[NBME 29]] - ==68==%, 97% chance of passing [[2022-06-29]]
+ Days Until Step 1  = 25
+- [[NBME 28]] - ==60==% [[2022-07-07]]
+- [[NBME 30]] - ==70==%- 98% chance of passing [[2022-07-12]]
+- UWSA2 - 228 [[2022-07-16]]
+---
+[[BioStats]] | [[Epidemiology]]
+
+---
+# Final Step 1 Review:
+## Critical Notes:
+### [[Substances of abuse - Dirty Medicine]]
+### [[Hyperparathyroidism]]
+### [[Congenital Reproductive Anomalies]]
+## Critical Mind Maps to Walk Through
+- [[Memory Loci]]
+
+## High yield First Aid pages:
+### Finished
+- [x] Biochem (all the disorders ie GSD/LSD, enzyme deficiencies)
+	- [x] Gauches
+	- [x]  Pompe
+- [x] Portal-systemic anastomosis
+	- [x] [[Portosystemic anastomoses - First Aid.png]]
+- [x] Autonomic pharm
+- [x] Asthma
+	- [[Asthma]]
+- [x] Heme disorders (especially all of heme pathology)
+	- [x] [[Heme-Onc]]
+	- [x] ITP, TTP, Factor V, etc. 
+- [x] Shoulder
+	- [x] [[Scapula]]
+- [x] Cushing
+	- [x] REWRITE THIS 10x: [[Suspected Cushing's Syndrome Workup.png]]
+- [x] Endo CAH
+	- [[reproductive.pptx]]
+	- 
+- [x] Diarrhea
+- [x] CYP450
+- [x] Pharyngeal araches
+- [x] Lysosomal storage diseases 
+- [x] autosomal dominant
+- [x] x-linked recessive
+- [x] Ethics
+- [x] Cardiac drugs
+- [x] Cardiac pathology (especially congenital heart diseases)
+- [x]  [[Leukemia & Lymphoma|Leukemias & Lymphomas]]
+### Practice Again
+- [ ] [[BioStats]]
+- [x] [[Key defense mechanisms.png]]
+- [x] [[Apolipoproteins]]
+### Up Next
+- [x] Immunodeficiencies, HIV
+	- [ ] [[Immunology]]
+	- [ ] [[infectious-disease - HIV.pdf]]
+	- [ ] [[Pasted image 20220706210727.png]]
+- [x] Neuro 
+	- [ ] Astrocytes, 
+	- [ ] Meylination 
+	- [ ] Axon
+- [ ] Diabetes drugs
+	- [ ] [[DPP-4 inhibitors Pixorize.png]]
+- [x] How does dietary salt intake affect aldosterone?
+	- [ ] Increased = ==suppressed== aldosterone
+		- [ ] Increases Na channel transcription and activity, to increase reabsorption.
+	- [ ] Decreased = ==increased== aldosterone
+- [ ] Childhood Development Milestones
+	- [ ] 3-6-9-12 shoulder to hip, knee, foot = muscles
+	- [ ] Moro, palmar, Babinski, root- follow the number of letters in the word. 
+		- [ ] EXCEPTION: Babinski- 12 months. 
+			- [ ] I remember Babinki by thinking it's a long word, so its the last one to disappear at 1 year. 
+	- [ ] A crawling baby looks like a sideways 8, so crawl at 8 months.
+	- 6 mo- the S's. Sits, Stranger anxiety, Switch hands
+	- 9 mo- the P's. seParation anxiety, object Permanence, Pincer grasp
+	- 1 year- one syllable words. Walk, talk and point
+	- 2 year- two letter words. kick baLL, paraLLel play, raPProachment, fEEd alone
+	- 3 year- TRIcycle, free at three (meaning, can spend day alone without mom), gender identity
+	- 4 year- friends (play together), legends, hop, draw
+	- 5 year- independent (meaning can dress and groom self)
+	- age=# word sentences AND number of zeroes in vocabulary count
+	- age *3 = number of cubes stacked
+	- 4 and 5 year don't have really good mnemonics unfortunately, but I feel like it makes sense intuitively.
+		- ![[Pasted image 20220709105717.png]]
+- [ ] Repro neoplasia (female and male tumors)
+	- [ ] Granulosa cell tumor
+- [ ] Endoderm is one of the three primary embryonic germ layers and composes the innermost layer of the early developing organism. Endoderm derivatives include the epithelial linings of the respiratory tract, gastrointestinal tract, biliary system, genitourinary tract, vagina, and middle ear. Organs that arise from the endoderm include the liver, parathyroid glands, thymus, pancreas, and the follicular and parafollicular cells of the thyroid. Surfactant secretion in the mature lung is achieved by type Il pneumocytes, a component of the respiratory epithelium. Defective differentiation of the endoderm in the embryonic lung bud would most likely result in impaired development of type Il pneumocytes and reduced secretion of surfactant.
+	- [ ] https://www.youtube.com/watch?v=1tvL-96aSog
+- [ ]  [[Neurology]]
+	- Cerebellar Ataxia
+		- [[✨Cerebellar Pathology.pdf]]
+	- Cranial Nerve Palsies
+	- [ ] An aneurysm of the ==posterior== communicating artery can cause compression of the nearby oculomotor nerve (CN III).
+- [ ] The synaptic ==acetylcholine== concentration influences the amplitude of end-plate potentials.
+- [ ] Membrane potential = ==summation of the end-plate potentials==
+- [ ] Vit 
+	- [ ] A 
+	- [ ] C 
+		- [ ] Vitamin C (Choice E) is found in fruits and vegetables and is necessary for collagen synthesis, iron absorption, immune function, and conversion of dopamine to norepinephrine. Deficiency causes scurvy, which is characterized by swollen gums, bruising and poor wound healing, petechiae, perifollicular and subperiosteal hemorrhages, and short, fragile, curly hair.
+	- [ ] B1
+		- [ ] Vitamin B1 (thiamine) (Choice B) is a cofactor for several enzymes in glucose metabolism and adenosine triphosphate production, including pyruvate dehydrogenase and a-ketoglutarate dehydrogenase. Deficiency is characterized by Wernicke encephalopathy, a triad of confusion, ophthalmoplegia, and ataxia. Wernicke encephalopathy is theoretically reversible with administration of high-dose thiamine; if untreated, it can progress to Korsakoff syndrome which is characterized by dementia, confabulation, hallucinations, and psychosis.
+	- [ ] B2
+		- [ ] Vitamin B2 (riboflavin) (Choice C) deficiency is characterized by inflammation and cracking of skin around the lips, mouth, and tongue. It is not associated with aminoaciduria or Hartnup disease.
+	- [ ] B3
+		- [ ] Treatment of Hartnup disease consists of both niacin supplementation (nicotinic acid) to correct vitamin B3 deficiency and replenishing the constant loss of amino acids with a high-protein diet. One of the most prominent side effects of niacin is facial flushing due to an increase in prostaglandin synthesis (leads to cutaneous vasodilation). Aspirin or ibuprofen, taken 30-60 minutes prior to administration of niacin, helps suppress prostaglandin production by inactivating cyclooxygenase.
+	- [ ] B5
+		- [ ] Vitamin B5 (pantothenic acid) (Choice D) deficiency is characterized by dermatitis, enteritis, alopecia, and adrenal insufficiency. It is not associated with aminoaciduria or Hartnup disease.
+	- [ ] B6
+		- [ ] Def: Isoniazid
+	- [ ] B12
+	- [ ] K
+		- [ ] Gut bacteria produce about half of the vitamin K required by the body. Therapy with broad-spectrum antibiotics (e.g., macrolides) can deplete vitamin K stores in the body by destroying gut flora. Since vitamin K competes with warfarin for binding to the active site of vitamin K epoxide reductase, depletion of vitamin K would augment the effects of warfarin and further increase INR.
+			- [ ] ![[CleanShot 2022-07-12 at 19.43.04.png]]
+	- [ ] D
+		- [ ] Vitamin D **deficiency** typically leads to ==decreased== intestinal calcium absorption, ==hypocalcemia,== increased PTH secretion, and increased PTH-mediated bone resorption.
+		- [ ] [[Primary Hyperparathyroidism]]
+		- [ ] Estrogen ==increases== bone growth!!
+
+- [ ] Failed obliteration of an allantoic remnant = ==Patent urachus== 
+- [ ] Failed closure of the vitelline duct = ==Meckel diverticulum== or ==vitelline fistula==
+- [ ] MELAS syndrome
+- [ ] How do we differentiate Salmonella from Shigella? 
+	- [ ] ==Characteristic hydrogen sulfide  production== 
+		- [ ] Black plate sketchy
+- [ ] Cholinesterase inhibitor acts in the ==basal forebrain== and ==cerebral cortex== for alzheimer
+- [x] **Urine Crystal Shapes:** 
+	- [x] [[Kidney Stones Mindmap.png]]
+	- [x] Rhomboid-shaped crystals -> ==Uric acid stones, radiolucent==
+	- [x] Wedge-shaped crystals -> ==Calcium phosphate stones.==
+	- [x] Coffin-lid-like crystals -> ==struvite stones.==
+	- [x] Hexagon-shaped crystals -> ==pathognomonic of cystinuria.==
+- [ ] **Antibodies**
+	- [ ] Anti-cyclic citrullinated peptide (anti-CCP) antibodies are specific for ==rheumatoid arthritis (RA)==
+	- [ ] Anti-β2-glycoprotein 1 antibodies are specific for ==APS==
+	- [ ] Anti-synthetase antibodies = ==dermatomyositis== or ==polymyositis==
+	- [ ] Positive anti double-stranded DNA antibody (anti-dsDNA) = ==SLE==
+- [ ] **Asthma Drugs**
+	- [x] Tiotropium is an inhaled ==antimuscarinic== agent
+	- [ ] Inhaled corticosteroids such as ==budesonide== are first line for persistent asthma
+	- [x] Salmeterol is an inhaled ==beta-2 adrenergic agonist== used to treat moderate to severe asthma
+		- [ ] ![[Pasted image 20220708182630.png]]
+		- [ ] ![[Pasted image 20220708182541.png]]
+- [ ] **Easily Confused Virulence Factors** 
+	- [ ] ==Exotoxin A== is a major virulence factor produced by **Pseudomonas**. #incorrects 
+	- [ ] ==Protein A== is a a major virulence factor of **Staphylococcus aureus.**
+		- [ ] ![[rec1653176409.mp3]]
+	- [ ] ==IgA protease== is a major virulence factor produced by **S. pneumoniae, H. influenzae, and Neisseria species**. 
+	- [ ] ==Lipid A== (aka endotoxin) is a major virulence factor in **gram (-) cell walls**
+		- [ ] Part of LPS 
+			- [ ] Lipopolysaccharide (endotoxin) binds to ==CD14== and ==TLR4==
+			- [ ] The drug ==Polymixins== works by binding to LPS on bacterial cell membranes
+	- [ ] ==Alpha Toxin== is produced by **Clostridium perfringens and Staphylococcus aureus.**
+		- [ ] It degrades phosphatidylcholine and sphingomyelin, resulting in myonecrosis (muscle breakdown) 
+		- [ ] Is a phospholipase C enzyme
+		- [ ] 
+	- [ ] Which Mycobacteria virulence factor inhibits phagosome/lysosome fusion? ==Sulfatides==
+	- [ ] 
+- [ ] **Urine Crystal Shapes:** 
+	- [ ] Rhomboid-shaped crystals -> ==Uric acid stones, radiolucent==
+	- [ ] Wedge-shaped crystals -> ==Calcium phosphate stones.==
+	- [ ] Coffin-lid-like crystals -> ==struvite stones.==
+	- [ ] Hexagon-shaped crystals -> ==pathognomonic of cystinuria.==
+- [ ] **Reticulocyte count!!**
+	- [ ] Represents ==erythropoietic activity==
+		- [ ] ==Hemolysis or Blood loss== cause increases
+		- [ ] ==Aplastic anemia or CKD== cause decreased
+	- [ ] [[Hemolysis Reticulocyte Normocytic - Mindmap.png]]
+- [ ] **Endocrine Quick Quiz**
+	- [ ] ==Primary Adrenal Insufficiency== = Not resp to ACTH
+	- [ ] ==Central Adrenal Insufficiency== = Failure to Produce ACTH
+- [ ] **Diarrhea Check**
+	- [ ] Can't see, can't pee, can't climb tree = ==reactive arthritis==
+		- [ ] due to Shigella, Yersinia, Salmonella, or Campylobacter.
+		- [ ] Reactive arthritis has a strong association with the HLA-B27 haplotype.
+			- [ ] PAIR of wings on B27 Bomber = ==Psoriasis, Ankylosing Spondylitis, IBD-Arthritis, Reactive Arthritis==
+	- [ ] ==C. difficile== = Hospital Acquired 
+	- [ ] ==Vibrio cholera== = Rice-Water Stools 
+		- [ ] ![[CleanShot 2022-07-06 at 15.35.38@2x.png]]
+	- [ ] ==ETEC== = Traveler's Diarrhea 
+	- [ ] ==Staph aureus== = Proteinaceous Foods 
+	- [ ] ==Bacillus cereus== = Reheated Rice, Buffets 
+	- [ ] ==Giardia== = Hiker Drinking Fresh Water 
+	- [ ] ==Shigella== = Hemolytic Uremic Syndrome 
+	- [ ] ==Salmonella== = Raw Chicken/Eggs
+	- [ ] ==Amoeba histolytica== = HIV/AIDS 
+	- [ ] ==Campylobacter== = MC Bloody Diarrhea 
+	- [ ] ==EHEC (0157:H7)== = Uncooked Meat
+- [ ] **Tumor suppressor genes** 
+	- [ ] [[Oncogenes & Tumor Suppressor Genes]]
+- [ ] **Interleukins and CD markers**
+- [ ]  Genes and Mutations
+	- [ ] [[Oncogenes & Tumor suppressor genes - First Aid.png]]
+	- [ ] [[Oncogenes & Tumor Suppressor genes - First Aid Full.png]]
+- [ ] (What's)==Hydrophobic interactions between globin chains (β-globin) after deoxygenation are== the underlying molecular pathophysiologic events that lead to acute sickle cell crises. 
+- [ ] Lower Limb Reflexes: 
+	- [ ] ![[CleanShot 2022-07-09 at 11.18.43@2x.png]]
+- [ ] A pure sensory stroke is caused by diminished perfusion of the ==ventral posterolateral nucleus== #incorrects 
+- [ ] Hereditary spherocytosis = ==increased== red cell distribution width | ==Increased== mean corpuscular hemoglobin concentration
+
+
+
+## Last Three Weeks of Incorrects:
+- [x] [[CSF Analysis]]
+- [[Granulosa Cell Tumor]]
+- [x] [[20160820_213414 (1).jpg]]
+- [x] [[Respi lung development]]
+- [x] Basic immunology (surprisingly high yield, especially cell surface markers and cytokines)
+- [x] Child development milestones 
+- [x] Mature/immature defense mechanism
+- [x] Nuclear pyknosis describes the ==condensation of nuclear chromatin that occurs as the cell is==
+ - [x] [[Antibiotic Resistance]]
+	1. Rule of thumb:
+		1. Alteration of Penicillin binding proteins = gram ==positive== bacteria
+		2. Alteration of B-lactamase production = gram ==negative== resistance
+
+- [x] **[[Urinary incontinence]]**
+	- [x] ==Intermittent catheterization== is indicated in patients with ==overflow== incontinence.
+		- [[Overflow Incontinence - UWORLD Table.png]]
+		- Other treatment options for overflow incontinence include behavioral changes (e.g., timed voiding, Valsalva maneuver to increase intravesical pressure), triggered voiding by stimulating sacral and lumbar dermatomes, or bethanechol, a ==muscarinic agonist== that can ==stimulate== ==detrusor== ==contraction==.
+	- [x] The internal urethral sphincter is a smooth muscle innervated by the ==pelvic plexus==. 
+		- Damage to the pelvic plexus can affect both bladder contraction and internal urethral sphincter relaxation, leading to ==overflow== incontinence.
+- [x] Deficiency in ==the IFN-Y receptor== increases the risk of severe **mycobacterial** and **salmonellal** infections early in life.
+
+- [ ] **Taha Recording**
+	- [x] Kwashiorkor edema - not enough protein, similar to cirrhosis
+		- [x] Fatty change on liver, only eating carbs.
+	- [x] Conesus statement 
+	- [x] Intention to treat analysis
+		- [ ] Analyze according to initial assignment
+	- [x] External hemmorhoid
+	- [x] Cryptococcus with various stains
+	- [x] E coli sepsis
+	- [x] Vibrio -> gangrene 
+	- [x] TANNER STAGES
+		- [x] ![[Tanner stages and Precocious Puberty.png]]
+		- [x] Mound on Mound is when?
+	- [x] LPS -> Protein A
+		- [ ] ![](http://127.0.0.1:56077/paste-fb37ebf139983686d974b5abbb8ff1790271be0b.jpg)
+	- [ ] Reflexes, Brachial plexus, lumbosacral trunk:
+		- [ ] Three musketeers, Assination, 
+	- [x] Nigrostriatal vs etc. 
+	- [x] Crohns fistula next to anus
+	- [x] Essential tremor
+	- [x] Alpha 2 agonists for tourettes: 
+		- [ ] ![[paste-66803921322226.jpg]]
+	- [x] Ruptured muscle is healed by ==satellite== cells
+		- [ ] {{c1::satellite}} cells can grow a little skeletal muscle back.
+	- [x] Infusion reactions:
+		- [x] {{c1::==Rituximab==}} (anti-CD20 antibody) can be used to treat diffuse large B-cell and follicular lymphoma
+	- [x] Reproductive pharm
+		- [x] Leuprolide pixorize
+	- [x] Question on bartonella
+		- [x] Cat scratch disease is caused by infection with the Gram-negative pleomorphic coccobacillus Bartonella henselae. Infection is acquired via scratches or bites from domestic or feral cats, may be localized or disseminated, but most commonly causes local lymphadenitis in the lymphatic drainage pattern of the scratch location. The most commonly involved lymph nodes are the axillary and cervical lymph nodes. Histologic examination shows necrotizing granulomas with stellate (star-shaped) abscesses. Multinucleated giant call may or may not be present. Oiner causes of vmohadentein children include viruses loo, adenovrus, respiratov, ynoytial virus, ninovinus, Erstein Bar Minus and suggests a site of inoculation, whereas viral infection would likely demonstrate no such lesion.
+		- [x] Brucella melitensis (Choice B) is one of the species of Gram-negative coccobacilli that cause brucellosis, also known as undulant fever. The other species that infect humans are B abortus, B. canis, and B. suis. Brucellosis is commonly contracted by the consumption of unpasteurized milk and would not be expected to present with a draining punctum.
+		- [x] lymph node on elbow
+		- [x] 
+- [ ] ==Abciximab== is a monoclonal antibody that inhibits glycoprotein lIb/Illa on the platelet surface.
+	- [ ] ABC123
+- [ ] Bortezomib:
+	- [ ] What is it used to treat? ==Multiple Myeloma==
+	- [ ] What does it do? 
+		- ==Proteasome inhibitors prevent antigen processing and presentation on class I MHC molecules, thereby blunting CD8+ cytotoxic T lymphocyte activation.== While this is an effective strategy to treat multiple myeloma, it also makes patients more prone to infections, especially ==viral== infections.
+		- [ ] Presentation of antigens to CD8+ T lymphocytes would be affected by the use of the proteasome inhibitor bortezomib. 
+		- [ ] Proteasomes are large proteases with numerous domains that are present in both the cytoplasm and the nucleus. They are made of a and ß subunits and have an extensive role in cell cycle regulation, but also in immune function. The caspase, chymotrypsin, and trypsinlike protease capabilities of this enzyme complex are also critical to their role as antigen processing centers; intracellular peptides are processed in the proteasome for presentation on class I major histocompatibility complex (MHC). Antigen-bound class I MHC molecules are recognized by cytotoxic CD8+ T lymphocytes, so proteasome inhibitors blunt the response of CD8+ T lymphocytes by altering antigen presentation on the surface of MHC I molecules.
+- [ ] Educational Objective: Complex II of the ETC, or succinate dehydrogenase, generates FADH2 via the oxidation of succinate to fumarate. The electrons from FADH2 then enter the ETC to generate ATP via oxidative phosphorylation. Deficiencies in complex I can cause severe neurological disease, such as ==Leigh== syndrome.
+- [ ] Educational Objective: Ursodiol ==decreases the cholesterol content of bile== and thereby prevents the formation of cholesterol gallstones. It is considered second line therapy when compared to cholecystectomy in patients with cholelithiasis and biliary colic.
+- [x] A defect in the carnitine shuttle would result in impaired transport of ==long-chain fatty acids== across the mitochondrial membrane
+- [x] Effect of cortisol on ADH? ==Directly Inhibit==
+- [x] Cystitis is usually caused by an ascending bacterial infection from the urethra, and E. coli is the most common causal organism, causing ∼ 80% of [[Urinary Tract Infections]].
+- [ ] ==Case-control== studies group patients according to ==disease== outcome status and analyze the ==odds of exposure to a particular hazard==. 
+	- Work backwards from: the appropriate statistical measure is the **odds ratio (OR).**
+- [ ] **Cleidocranial dysplasia (CCD)** is inherited either de novo or in an autosomal dominant manner and presents with **bony dysplasia**. Diminution or absence of the clavicle permits abnormal movement of the shoulders anteriorly as seen in this patient. Additional symptoms include impaired skull development, often involving the frontal or parietal bones, the presence of Wormian (intrasutural) bones, supernumerary teeth, hypoplasia of the maxilla, frontal bossing, hypertelorism, and delayed ossification of the pubic symphysis. CBFA1 (core binding factor activity 1) gene may be mutated. This gene codes for a transcription factor involved in osteoblast differentiation. Membranous often found along the midline, is most commonly affected. The life expectancy of affected patients is generally normal, as is neurologic development.
+- [ ] Scapular winging = [[CleanShot 2022-07-06 at 20.56.26@2x.png]]
+	- [ ] Medial =  ==long thoracic== nerve innervates the ==serratus anterior== muscle
+	- [ ] Lateral =  ==Dorsal scapular nerve injury== can't abduct the arm beyond 90*
+- [ ] The ==preoptic nucleus in the anterior hypothalamus== is the body's primary thermoregulator.
+- [ ] [[Congenital Neutropenia]] is defined as neutropenia that is present at or around the time of birth, is not related to a secondary cause, and persists. In cases of mild neutropenia, symptoms are less common, although patients may eventually develop stomatitis and gastrointestinal ulceration. In severe cases, there is a substantially heightened risk for invasive bacterial infection.
+- [x] Hepatic ==echinococcosis== typically causes malaise, nausea, vomiting, hepatomegaly, and an, anechoic, well-defined, hepatic cyst (hydatid cyst) with or without daughter cysts and eggshell calcification on ultrasonography. 
+- [x] [[Diuresis]] can cause hearing loss!!!
+- [x] [[Pacemaker action potential.png]]
+- [x] [[Antiarrhythmics]] - Watch sketchy again just cuz
+- [ ] [[Bacillary angiomatosis is commonly confused with Kaposi's sarcoma.png]] how do you tell them apart? ==Bartonella has neutrophilic infiltrate==
+- [x] Duodenal Ulcers
+	- [x] ==Anterior== duodenal ulcers can cause perforation that results in free air under the diaphragm.
+	- [x] ==Posterior== duodenal ulcers can cause significant GI bleeding. Bonus - what artery?
+		- [x] Posterior duodenum is across the ==gastroduodenal== artery
+		- [ ] ![[Branches of Celiac Trunk.png]]
+- [x] Meningiomas arise from ==Arachnoid== cells
+- [x] Isoniazid ==decreases the synthesis of mycolic acid== (MOA)
+- [x] Potassium Sparing Diuretics MOA?
+	- [x] Spironolactone reduces K+ for Na+ in the collecting duct
+- [x] ==CLL== is also the most common cause of generalized lymphadenopathy in patients > 65 years.
+- [x] Painless, generalized lymphadenopathy and splenomegaly in an individual > 65 years is highly suggestive of ==chronic lymphocytic leukemia (CLL)==, 
+	- [x] the most common type of leukemia in this age group. 
+- [x] Empagliflozin = ==(SGLT2) inhib==. 
+	- [x] Works in proximal convoluted tubules of the kidneys to ==decreased== renal glucose reabsorption and ==increased== urinary glucose excretion.
+	- [x] Low insulin-to-glucagon ratio because high blood glucose levels are the primary stimulus for insulin release.
+		- [x] **Euglycemic DKA** in patients taking SGLT2 inhibitors can be triggered by prolonged **fasting**, major illness, intense exercise, excessive alcohol intake, or an abrupt reduction in concurrent insulin dose. These conditions further lower the insulin-to-glucagon ratio and exacerbate relative insulin deficiency to the point of stimulating ketogenesis.
+		- [x] Serum glucose usually <250
+		- [x] [[~ What is the mechanism of action of SGLT2 inhibitors]]
+- [x] ==Octreotide== treats Acromegaly
+
+- [x] Do primary, secondary, or both hyperthyroid disorders present with low TSH? ==Just primary==
+- [x] The hallmark of Takayasu arteritis (TA) is ==granulomatous== inflammation of the arterial wall
+	- [x] Patients with Takayasu arteritis should be treated with ==corticosteroids==.
+- [x] An increase in serum ACTH levels indicates a ==normal== response to metyrapone stimulation testing.
+- [x] Startle myoclonus = ==Creutzfeldt-Jakob disease.== #incorrects 
+- [x] The diagnosis of **tertiary adrenal insufficiency**, due to suppression of the hypothalamic-pituitary axis, is confirmed by ==decreased== serum cortisol and ==decreased== serum ACTH.
+- [ ] To remember the effect pH has on PTH, think: **↑ pH = ↑ PTH and ↓ pH = ↓ PTH.**
+- Look up: *Kaplan-Meier curves estimates are used to provide prognostic data to patients with new diagnoses. The survival rate is the percentage of patients who survive a given time*
+- [x] [[CleanShot 2022-07-03 at 17.44.04@2x.png|Suvorexant]] is a selective orexin receptor antagonist and intermediate-acting hypnotic used for the treatment of ==insomnia==.
+- [x] Triazolam is a short-acting benzodiazepine (half-life approx. 2-5 hours) used for ==the short-term treatment of sleep onset insomnia== and as a second-line therapy for **social anxiety disorder.** 
+- [x] Acute rheumatic fever (ARF) is a complication of untreated ==group A streptococcal tonsillopharyngitis==. Major manifestations of AR include arthritis, Sydenham chorea, subcutaneous nodules, **erythema** marginatum, and cardiac valve disease, of which mitral valve involvement is most common.  [[3576.png|ARF UWorld Table]]  
+- [x] Describe the pathophysiology of Sydenham chorea:
+	- [x] Pathophysiology: ==Streptococcal antigens lead to antibody production > antibodies cross-react with structures of the basal ganglia (particularly the striatum) and cortical structures > reversible dysfunction of cortical and striatal circuits.==
+- [x] Parathyroid ==chief== cells are the site of parathyroid hormone (PTH) production and secretion.
+	- [x] Maintain calcium homeostasis
+	- [x] [[Primary Hyperparathyroidism]] is usually ==parathyroid adenoma==
+	- [x] [[hypercalcemia workup amboss.jpeg]]
+	- [x] [[Hypercalcemia]] 
+- [ ] Alpha-1 antagonists decrease ==phospholipase C== #incorrects 
+- [x] [[Orotic Aciduria]]
+- [ ] [[Aromatase Inhibitors]]
+	- [x] Aromatase converts androgens to estrogen
+	- [x] Often combined with tamoxifen or raloxifine
+- [x] What type of collagen is found in skin and blood vessels? ==Type III==
+- [x] The ==cavernous== nerve can be injured during radical prostatectomy. 
+- [x] **Lipofuscin granules**, also known as wear-and-tear granules, are composed of yellow-brown pigmented granules and occur as a natural process with age. They are formed by the ==oxidation of phospholipid molecules==
+- [x] Administering fomepizole inhibits the effects of ==alcohol dehydrogenase==, thereby preventing the conversion of methanol to its toxic byproducts.
+- [x] Which [[Congenital Reproductive Anomalies|CAH]] presents with hypotension? ==21b CAH==
+- [x] Children with osteogenesis imperfecta can be treated with ==bisphosphonates==, which increase cortical thickness. #incorrects 
+- [x] The extent to which the diagnosis by one physician was replicated by another clinician examining the same patient is best described by ==Precision or a high interrater reliability ==
+- [x] What porphyria presents with abdominal pain and neuropsychiatric disturbances? ==AIP==
+	- [ ] Treat with ==Hemin==
+- [x] Cysts with prominent two-layered cell wall and multiple nuclei: ==Giardiasis==
+- [x] What's the difference between 25-hydroxycholecalciferol and 1,25-dihydroxycholecalciferol?
+	- [x] 25 || Synthesized in the liver, stored in fat. Usually being transported. 
+	- [x] 1,25 || ==PTH== acts on the **kidney's pct (1a hydroxylase)** cells to make 25->1,25, thus becoming active. 
+	- [ ] ![[Pasted image 20220628195058.png|500]]
+- [x] What is the ductus venosus? 
+	- [x] ==Connects the umbilical vein and hepatic segment of the inferior vena cava to provide oxygenated blood to the fetus.==
+	- [x] [[Fetal circulation & Postnatal circulation.png]]
+- [x] Streptococcus pneumoniae and Haemophilus influenzae account for ∼ 75% of all cases of bacterial rhinosinusitis
+- [ ] Review the motor humunculous: 
+	- [ ] [[Pasted image 20220628201629.png]]
+
+- [ ] The combination of hypercalcemia, anemia, back pain, renal dysfunction, and elevated ESR is highly suggestive of ==Overproliferation of plasma cells - aka MM==
+- [x] Someone looks like they have primary hyperparathyroidism on labs, but w/ elevated ESR and anemia... what do they have? ==Multiple Myeloma==
+- [ ] **Typical anginal** symptoms with **reversible ST-elevations** and **negative troponin** tests are typical for ==vasospastic angina==
+- [x] Psoriatic arthritis is a ==seronegative spondyloarthropathy== seen in up to ⅓ of patients with psoriasis.
+- [x] [[Spondyloarthropathies]]
+- [x] Antipsychotic-induced pseudoparkinsonism -> discontinuation of the offending drug -> However, to provide symptomatic relief, give: ==Centrally-acting muscarinic antagonists==, e.g., ==benztropine and trihexyphenidyl==
+- [x] The factor that is stored in alpha-granules of platelets is ==von Willebrand factor (vWF).==
+- [x]  ==vWF== is also stored in the Weibel-Palade bodies of endothelial cells.
+	- [ ] [[Pasted image 20220628223546.png]]
+- [x] vWF -> GpIb = ==Adhesion==
+	- [ ] [[Screen Shot 2022-06-28 at 10.37.13 PM.png]]
+- [x]  vWF also prevents the breakdown of factor VIII and plays a role in platelet aggregation 
+- [x] Adenovirus is a [DNA or RNA?] ==nonenveloped, double-stranded DNA== virus 
+- [x] PCWP = ==LA Pressure==
+- [x] Marked atrophy of caudate and putamen = ==Huntingtons==
+- [x] Spongiform vacuolation of the cortex = ==Creutzfeldt-Jakob disease.==
+- [x] ==Small cell lung cancer (SCLC)== is the most common cause of endogenous Cushing syndrome from an ectopic source of ACTH. 
+- [x] What cells arise from the myeloid lineage?
+	- [ ] ==Myeloid stem cells give rise to erythrocytes, neutrophils, basophils, monocytes, megakaryocytes, and eosinophils==
+- [x] Chronic lymphocytic leukemia show characteristic ==ruptured lymphocytes== on peripheral blood smear. Diffuse nontender lymphadenopathy.
+- [ ] How will you differentiate leukemoid reaction from acute leukemia on test day? 
+	- [ ] ==Leukemoid reaction has mature, functional cells with increased alk phos activity.== 
+- [x] Is this an atypical lymphocyte, atypical myeloblast, or mature leukocyte? [[Screen Shot 2022-06-30 at 12.32.46 AM.png]]
+	- [x] Myeloblasts tend to have a lower nuclear to cytoplasm ratio and are larger than lymphoblasts
+	- [x] [[Hematopoetic Stem Cell Development.png]]
+- [x] Gs proteins ==activate== adenylyl cyclase |  Gi proteins ==inhibit== adenylyl cyclase.
+	- [x] [[Gs Gi Pathway - Pixorize.png]]
+- [x] Ligands of the tyrosine kinase receptors ==(TYRosine kinase, INSULin, GROWth factors): "I'm TYRed of your INSULts, GROW up!"==
+- [x] A ==decrease== in CAMP or cGMP causes contractions in smooth muscles.
+- [x] Which patients classically present with dependent edema in the buttocks, lower back, and legs, with foamy or dark-colored urine, hypoalbuminemia, and proteinuria? ==Minimal change==
+- [x] Intestinal absorption of calcium is regulated by ==vitamin D.==
+	- [x] [[Pasted image 20220630013144.png]]
+- [ ] Why does hypocalcemia in end-stage kidney disease occur? 
+	- [ ] Because of ==decreased native renal production of active vitamin D==.
+		- [ ] Leads to **decreased systemic absorption of calcium** and **increased concentrations of phosphate** caused by retention by the kidney.
+		- [ ] Increased **phosphate also complexes with the calcium in serum**, decreasing the serum total calcium.
+			- [ ]  In turn, **hypocalcemia is sensed by** the normally functioning parathyroid gland, which ==increases== synthesis of parathyroid hormone to attempt to normalize serum calcium through osteolysis, conversion of vitamin D, and gastrointestinal absorption.
+- [ ] Bile acid resins inhibit the reabsorption of bile acids (synthesized by cholesterol) through the intestinal lumen. 
+- [ ] Didnt review this q too tired: [[Screen Shot 2022-06-30 at 3.36.01 AM.png]]
+- [x] Hypoestrogenemia in breastfeeding women is caused by ==the negative feedback of prolactin on GnRH. This results in an increased risk for the development of atrophic==
+- [x] Aspirin-exacerbated respiratory disease (AERD). 
+	- [x] Patients are treated by desensitization to aspirin
+- [x] Aspirin irreversibly inhibits cyclooxygenase ==1 and 2== (1 or 2?)
+- [x] Tamoxifen is a SERM. What does that mean in practice?
+	- [ ] Tamoxifen - estrogen receptor ==antagonist== in breast ; estrogen receptor ==agonist== in the endometrium and bone.
+- [x]  Tamoxifen decreases risk of recurrence (30% to 50%), but little difference in overall mortality.
+- [x] Monosodium Urate vs Calcium pyrophosphate on microscopy?
+	- [ ] MSU = ==This is gout. Needle shaped and birefringent==
+	- [ ] CPP = ==Same as gout but crystals are rhomboid.==
+- [ ] Chondroitin sulfate is a highly polar molecule with many negative charges. In solution, it is heavily hydrated, which increases the overall volume of the complex, in contrast to its closer-packed form when it is a dehydrated solid.
+- [ ] Neuraminidase and hemagglutinin are the two major virulence factors of influenza viruses. Neuraminidase is a surface glycoprotein that allows for ==the release of virus from infected cells.==
+- [ ] What receptor restores low basal calcium concentration during diastole? 
+	- [ ] The dihydropyridine receptor is a voltage-gated receptor that is mechanically coupled to the ryanodine receptor on the sarcoplasmic reticulum of muscle. Ryanodine receptors are calcium release channels that are opened under the influence of activated dihydropyridine receptors on the T-tubules. Depolarization of the Dihydropyridine Receptor induces a conformational change in the Ryanodine Receptor and subsequent Ca2+ release from the sarcoplasmic reticulum. The release of calcium from the sarcoplasmic reticulum and induction of muscle contraction.![](http://127.0.0.1:58038/L5293.jpg)![](http://127.0.0.1:58038/L5290.jpg)
+	- [ ] Dantrolene prevents release of Ca into the myocyte cytoplasm by inhibiting the RR receptor
+- [ ] [[Notability/Textbooks (1)/Sketchy Pharm Guide_FULL.pdf]]
+	- [ ] ![[Screen Shot 2022-06-30 at 1.42.22 PM.png]]
+	- [ ] ![[Screen Shot 2022-06-30 at 1.42.41 PM.png]]
+	- [ ] ![[Screen Shot 2022-06-30 at 1.42.59 PM.png]]
+- [x] Educational Objective: **SGLT-1** is the cotransporter that absorbs ==galactose== and ==glucose== through the intestinal enterocytes. Deficiency of this enzyme manifests early in infancy as watery, acidic diarrhea and severe dehydration. Fructose absorption is unaffected as this utilizes the GLUT-5 transporter instead. ![](http://127.0.0.1:58038/paste-127753802220051.jpg)
+- [x] How does carotid sinus baroreceptor activity change with hypotension? 
+	- [x] Decreased BP leads to less firing on the baroreceptor. The NTS senses this and...
+	- [x] Turns on the sympathetic nervous system, by increasing efferent sympathetic firing. 
+	- [x] Thus, carotid massage is like patting the heart on the shoulder and saying *it's ok we still have pressure.*
+	- [x] ![](http://127.0.0.1:58038/paste-419248937633034.jpg) 
+- [x] SLE, serum sickness reaction, polyarteritis nodosa, and poststreptococcal glomerulonephritis are all examples of type ==III== hypersensitivity reactions.
+- [x] Indirect inguinal hernias exit abd cavity ...?  
+	- [ ] Lateral to the inferior epigastric artery and inferior to the inguinal ligament. ==Wrong==
+	- [ ] Lateral to the inferior epigastric artery and superior to the inguinal ligament. ==Right== 
+	- [ ] Medial to the inferior epigastric artery and inferior to the inguinal ligament. ==Wrong==
+	- [ ] Medial to the inferior epigastric artery and superior to the inguinal ligament. ==Wrong==
+	- [ ] Amboss Hernia Diagram: [[Hernia - Amboss.png]]
+	- [ ] First Aid Reminder: [[First Aid Hernia Mnemonic.png]]
+- [ ] Acquired **growth hormone deficiency** is typically caused by ==a nonfunctional pituitary tumor== and presents with *severe* growth *delay* and bone age ==younger== than chronological age. 
+	- [ ] It is associated with a rapid decline in the height-for-age curve, **crossing percentiles.** 
+- [x] ==Constitutional growth delay== presents in a patient who has parents of normal stature and demonstrates short stature, *delayed* pubertal development, slow but **consistent** growth velocity, and a bone age ==less== than chronological age. 
+	- [x] It is associated with normal development and stature once the patient reaches puberty.
+> [!check] Key
+> - [x] Fibrin is an acute phase reactant!
+> - [x] Fibrin acts to trap and sequester bacteria. While important in limiting the spread of infection, i can also predispose to the formation of abscesses.
+> - [ ] [[Fibrin, Liver, Acute Phase Proteins.png]]
+> - [ ] [[List of Acute-phase proteins.png]]
+- [ ] Deficiencies in the enzymes required to synthesize or recycle BH4 result in a clinical syndrome that is largely indistinguishable from PKU, as BH4 is a necessary cofactor in the reactions catalyzed by PAH. 
+	- [ ] These disorders are inherited in an autosomal recessive fashion and treatment is with oral replacement of BH
+- [ ] Inhibin is released by the granulosa cells of the ovary and Sertoli cells of the testis. It primarily acts to inhibit the production and release of ==FSH==.
+- [ ] Quick Review:
+	- [ ] Genetic heterogeneity = 
+	- [ ] Germinal mosaicism = 
+	- [ ] Pleiotropy = ==genes that influence one or more different and seemingly unrelated traits.==
+	- [ ] Variable expressivity = ==different phenotypes despite identical underlying mutations.==
+		- [ ] Neurofibromatosis and Marfan
+- [ ] Is ICAM-1 a selectin? How about LFA-1? ==No! Selectins are selectins!==
+	- [ ] ![[Screen Shot 2022-06-30 at 6.04.57 PM.png]]====![[Screen Shot 2022-06-30 at 6.00.56 PM.png]]![[Screen Shot 2022-06-30 at 6.31.23 PM.png]]==
+- [x] Osgood-Schlatter disease refers to ==osteochondrosis or traction apophysitis of the tibial tubercle== that typically occurs in ==adolescent, athletic== children.
+- [x] Slipped capital femoral epiphysis presents with ==hip, thigh, and knee== pain with limited range of motion and an antalgic gait, generally in ==an overweight== child or teenager.
+- [x] IL-1 is also known as osteoclast-activating factor. Dysregulation of IL-1 in cartilage leads to damage and osteoarthritis.
+- [x] Azoles inhibit ==Ergosterol== synthesis by inhibiting the cytochrome P450-dependent demethylation reaction that synthesizes ergosterol from lanosterol.
+	- [x] Pixorize: "Way beyond the scope of your exam" ... *gets a question wrong about the exact sentence word for word.* ![[Recording 20220630185803.webm]]  ![[Screen Shot 2022-06-30 at 6.59.16 PM.png]]
+- [ ] Lymphatic Drainage: [[Lymphatic drainage associations.png]]
+- [x] A male newborn develops vomiting and convulsions 4 hours after delivery. There is slight bulging of the fontanelles = Bug?
+	- [ ] ==Escherichia coli== is a common cause of neonatal meningitis. It typically presents shortly after delivery with temperature instability, lethargy or irritability, poor feeding, a bulging fontanelle, and potential seizures.
+	- [ ] Common causes of neonatal meningitis include Escherichia coli, Streptococcus agalactiae, and Listeria monocytogenes.
+- [x] ==Flumazenil==, a GABAA receptor antagonist, is used to treat benzodiazepine overdose
+- [x] Brocas v wernicke anatomy: 
+	- [ ] ![[Pasted image 20220630222457.png]]
+- [x] The ==left atrium== is the most posterior chamber of the heart
+- [x] Monoclonal gammopathy of uncertain significance (MGUS) 
+	- [ ] [[Screen Shot 2022-07-01 at 10.28.13 AM.png]]
+- [ ] Varenicline is a ==partial agonist of nicotinic acetylcholine receptors==
+- [ ] Buproprion is a ==as a nicotinic receptor antagonist==
+- [ ] Dandy-Walker syndrome is a malformation of the embryologic ==metencephalon==
+	- [ ] Telencephalon IS the 1st part. Diencephalon is the 2nd part. The rest are arranged alphabetically: mesencephalon, metencephalon, myelencephalon.[[Brain Stem Development.png]]
+- [ ] What's the MOA of adderall?
+	- [ ] Increase presynaptic release of dopamine and norepinephrine, which improve hyperactivity and inattention, respectively.
+- [x] Fat soluable vitamins are ==A, D, E, and K==
+- [ ] What binds to IIb/IIIa receptor?
+	- [ ] ![[Pasted image 20220701115612.png]]
+	- [ ] Context: [[Pasted image 20220701115454.png]][[Screen Shot 2022-07-01 at 11.55.22 AM.png]]
+- [x] Adrenocorticotropic hormone is produced by ==basophil== cells of the anterior pituitary gland.
+	- [x] through the cleavage of pro-opiomelanocortin. 
+	- [x] Adrenocorticotropic hormone promotes the release of cortisol from the adrenal gland.
+- [ ] [[SPk78Pkt - What is postpartum thyroiditis]]
+- [x] [[Maple Syrup Urine Disease]]
+- [x] [[Glycogen Storage Disease]] - [[Publix River Landing]]
+- [ ]  [[Follicular Lymphoma|Follicular Lymphoma]]
+- [x] [[Langerhans cell histiocytosis]] 
+- [x] Langerhans cell histiocytosis
+	- [ ] ![[Screen Shot 2022-07-01 at 12.53.33 PM.png]]
+- [x] [[kdaEtJQT - Varicocele]] -> [[XmliAasv - Hydrocele]]
+- [ ] Acute pancreatitis typically presents with epigastric abdominal pain that radiates to the back, along with nausea and emesis, often in a patient with a history of gallstones, alcoholism, trauma, hypertriglyceridemia, or hypercalcemia. **GreyTurner sign (bruising of the flanks) and Cullen sign (bruising around the umbilicus)** are less common clinical manifestations.
+- [x] [[Beckwith Wiedemann Syndrome]] = Genetic ==imprinting== disorder
+- [x] Desmopressin stimulates von Willebrand factor (vWF) release from endothelial cells and is indicated in the treatment of vWD. 
+	- [ ] ![[Pasted image 20220702155200.png]]
+- [x] Elevated serum ALP concentrations with normal serum calcium and phosphate concentrations are a hallmark laboratory finding of ==Pagets==. 
+- [x] Tinea pedis compromises the integrity of the skin and can be a point of entry for microorganisms such as Streptococcus pyogenes and Staphylococcus aureus, which are the likely cause of this patient's cellulitis.
+- [x] Cerebellum:
+	- [ ] ![[1613_Major_Regions_of_the_Cerebellum-02.jpg]]
+	- [ ] ![[CerebellumArteries.jpg]]
+	- [ ] [[1Q8ffMsi - A lesion in which part of the cerebellum is associated with truncal or gait instability]]
+	- [ ] [[vbCeKwwt - A lesion in which part of the cerebellum is associated with intention tremor]]
+- [ ] Hemophilia B is an X-linked bleeding disorder that is caused by a deficiency in factor IX leading to an increased PTT. Symptoms depend on severity but include prolonged bleeding following invasive procedures or trauma, easy bruising, and hemarthrosis. Treatment is with recombinant factor IX.
+- [ ] ==Granulosa== cells in the developing follicle are responsible for converting androgens received from the theca interna cells into estradiol via aromatase.
+	- [[Granulosa Cell Tumor]]
+	- [[Granulosa cell tumor of the ovary.jpg]]
+	- [[6. Granulosa Cells.jpg]]
+	- ![[CleanShot 2022-07-07 at 21.11.42@2x.png]]
+- [ ] Androgen-binding protein (ABP) is produced by the Sertoli cells of the seminiferous tubules via the regulation of follicle-stimulating hormone (FSH). Testosterone is produced by Leydig cells in the interstitium adjacent to the seminiferous tubules, the production of which is regulated by of luteinizing hormone (LH). Once released into the lumen of the seminiferous tubules, ABP facilitates spermatogenesis by binding to testosterone, allowing this otherwise lipophilic hormone to concentrate in the lumen. Normal spermatogenesis requires high local concentrations of luminal testosterone.
+- [x] Renal clearance is defined as the volume of plasma that is completely cleared of a given substance in a specified unit of time. Clearance often reaches an inflection point beyond which increasing plasma concentrations result in no additional urinary clearance the substance, which is demonstrated in the pictured graph. While the excretion rate and filtered load of PAH are higher at point Y as compared to point X, the PAH clearance is lower.
+- [x] ==Obesity== is an important risk factor for esophageal adenocarcinoma.
+- [x] Urethritis (dysuria), asymmetric oligoarticular arthritis, and conjunctivitis comprise the classic triad of reactive arthritis, a condition commonly triggered by ==diarrheal== illness.
+- MELAS syndrome
+	- Mitochondrial Encephalomyopathy, Lactic Acidosis, Stroke-like episodes
+	- Inherited myopathy caused by mutations of mitochondrial DNA. MELAS stands for "Mitochondrial Encephalomyopathy, Lactic Acidosis, Stroke-like episodes”. Tonic-clonic seizures and dementia due to encephalopathy may also be present.	
+	- *If you can't understand what the fuck is going on pick MELAS - Taha [[2022-07-09]]
+- 
+![[Pasted image 20220621215017.png]]
+- X = ==Jejunum==
+- Y = ==Ileum==
+- *Distinguished by several features:*
+	- ==Jejunum==: 
+		- Plicae circulares prominent
+		- More mucosal surface area
+	- ==Ileum==:
+		- Peyer patches
+		- Mucosal lymphoid follicles
+- ==**ADP**== rapidly and irreversibly causes platelet aggregation through its action on the P2Y and P2Y 12 receptors.
+> [!Key]- How do you differentiate acute Vibrio and Hepatitis A
+> 
+> Vibro presents right after the ingestion of shellfish with fever hypotension shock bullous skin lesions GI hemmorhage and coagulopathy. 
+> 
+- Lower extremity nerves: 
+	- 
+
+
+	- ![[Lower extremity nerves.png]]
+	- ![[Lower extremity nerves 2.png]]
+
+- Tumor lysis syndrome most commonly occurs following chemotherapy initiation for leukemia or lymphoma. The abrupt destruction of a large number of n tumor cells results in interstitial and serum release of their contents, manifesting as ==hyper==phosphatemia, ==hypo==calcemia, ==hyper==kalemia, and ==hyper==uricemia, the latter of which results in acute kidney injury and gout.
+	- Urea, in contrast to uric acid, is soluble in water and is normally reabsorbed in the nephron, contributing to the hyperosmolar gradient surrounding the loop of Henle. Urea does not cause acute kidney injury or contribute to hyperuricemia.
+	- [[MAlpxEpA - Uric acid stones are radiolucent stones that are secondary to gout or tumor lysis syndrome]]
+- During vigorous exercise and times of increased metabolic demand of myocytes, there may be insufficient oxygen for aerobic respiration. Myocytes consequently depend on anaerobic respiration, which results in the regeneration of NAD* from NADH through the production of lactic acid. This increased sarcoplasmic acidity results in muscle pain and burning.
+- ![[CleanShot 2022-07-10 at 10.44.14.png]]
+- ![[CleanShot 2022-07-10 at 10.56.11.png]]
+- ![[CleanShot 2022-07-10 at 11.41.11.png]]
+- ![[Apolipoproteins copy.jpg]]
+- [[Notability/Textbooks/Ome/Gastroenterology - Malabsorption.pdf]]
+- [x] Clinical trials occur in phases. 
+	- [ ] Phase 1 assesses safety in healthy volunteers. 
+	- [ ] Phase 2 assesses efficacy in a small number of sick volunteers. 
+	- [ ] Phase 3 is generally a large, randomized trial comparing the new intervention to placebo or the previous standard, and 
+	- [ ] Phase 4 describes post-marketing surveillance for long-term and rare effects.
+- [x] Guanosine analogs are phosphorylated by ==thymidine kinase==
+- [x] Hemochromatosis = ==iron== deposition, bronze diabetes, HF, gonadal atrophy, prussian blue, abnormal increased intestinal absorption (inherited) vs chronic transfusions (aquired)
+- [x] Wilson disease = ==copper==
+- [x] Inflammation impairs what kind of junctions? ==tight junctions==
+- [x] anterior vaginal wall bulge = ==cystocele==
+	- [x] Presents most commonly with urinary retention or incontinence
+- [x] Thrombolytics such as tissue plasminogen activator function by ==catalyzing the formation of plasmin from plasminogen==. 
+	- [x] Plasmin is a ==serine protease== that ==cleaves fibrin clots.==
+- [x] Neurofibromatosis 1 is an ==autosomal dominant== neurocutaneous disorder that typically results from an inherited mutation of the NF1 tumor suppressor gene on chromosome 17. 
+	- [x] Neurofibromatosis 1 is inherited with complete penetrance and variable expressivity
+- [ ] ==Zellweger== syndrome is caused by a genetic absence of peroxisomes
+	- [ ] Presents classically with ==seizures, intellectual disability, hypotonia, hepatomegaly, kidney disease, cataracts, hearing loss, and craniofacial abnormalities.== 
+	- [ ] Results of laboratory studies will show ==increased VLCFAs. hepatic transaminases, and direct bilirubin.==
+
+
+M2 me - nice step 1 p/f I'll just crank it out during CK dedicated
+M3 me - what the fuck is an electron transport chain
+
+![[BioStats]]

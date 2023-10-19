@@ -1,0 +1,1 @@
+2023-10-13: Patient with true hypertensive emergency with trop leak, papillidema, headaches, vision changes.  

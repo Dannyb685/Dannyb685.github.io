@@ -1,0 +1,147 @@
+# NBME 9 - 198
+[[Step 2]]
+
+### Score Report
+![[Screen Shot 2022-06-20 at 6.45.59 PM.png]]
+![[Screen Shot 2022-06-20 at 6.50.02 PM.png]]
+
+### Learning Points Part 1
+-  [[Constipation]]
+	- Can lead to urinary incontinence.
+	- Treatment of constipation includes osmotic or polyethylene glycol-based laxatives and dietary modification with increased intake of fluids and fiber.
+- [[pneumococcal vaccines]]
+- [[Epstein-Barr virus]]
+	- Exceedingly common
+	- Mononucleosis
+	- Infects B lymphocytes
+		- If T cells can't clear the virus because you're immunocompetent, it can lead to post-transplant lymphoproliferative disorder. 
+			- Epstein-Barr virus (EBV) is a common inciting pathogen in the development of post-transplant lymphoproliferative disorder (PTLD), a condition that occasionally affects individuals after solid organ or stem cell transplant who remain on high doses of immunosuppressive medications.
+	- Discrete extra-nodal mass in 1/2 of patients
+	- Treat by reducing immunosuppressive medications
+		- Can use rituximab if severe
+- [[Clostridium botulinum|Botulinum]]
+	- Why is first step in diagnosis repetitive stimulation studies and not blood cultures?
+> [!Key]
+> We need to treat fast and blood cultures can take a while.
+- Educational Objective: Botulism is an acute disease of the neuromuscular junction caused by exposure to the C. botulinum toxin. It presents with rapidly progressive, symmetric hypotonia and hyporeflexia that begins with the cranial nerves, manifesting as ptosis, sluggish pupils, and a diminished gag reflex, and descends to the lower extremities, as well as causes constipation, poor feeding, and respiratory failure. The diagnosis is supported by a characteristic low amplitude response on repetitive nerve stimulation studies that improves with repeated stimulation.*
+- [[Vestibular neuronitis]]
+	- Vestibular neuronitis, also known as vestibular neuritis, is caused by inflammation of the vestibular portion of cranial nerve VIII (the vestibulocochlear nerve). 
+	- It commonly arises as an inflammatory consequence of viral infection. Vestibular neuronitis typically presents with acute vertigo, nausea, vomiting, nystagmus, and gait instability (vestibular symptoms), which a usually constant rather than episodic.
+	- The absence of visual input, when the patient closes I eyes, commonly worsens peripheral vertigo (vertigo caused by lesions of the vestibulocochlear nerve). 
+	- Nystagmus is typically horizontal or rotatory; vertical nystagmus is a sign of a central cause of vertigo (eg, brainstem lesion). Patients do not commonly present with hearing loss unless there is concomitant involvement of the auditory portion of cranial nerve VIII, which i: referred to as labyrinthitis.
+	- Vestibular neuronitis is typically self-limited, though a glucocorticoid taper may hasten recovery, and antiemetics and vertigo medications may reduce the severity of symptoms.
+- Candidiasis is a common cause of diaper rash
+	- Topical nystatin cream is the first-line
+	- Topical corticosteroids should be avoided as they can lead to worsening of the fungal infection.
+	- ![[Pasted image 20220621125627.png]]
+- Sensitivity = I know pt has disease, what is chance test shows that
+- Specificity, the other is the other one.
+- Make a 2x2 table. The truth is what's on the top.
+- PPV: “I just got a positive test result back on my patient. What is the chance that my patient actually has the disease?”
+- For NPV: “I just got a negative test result back on my patient. What is the chance that my patient actually doesn’t have the disease?”
+- [[Juvenile Idiopathic Arthritis]]
+- [[Osteonecrosis]] vs [[Osteomalacia]]
+- [[Adenosine.PNG]] and [[Supraventricular Tachycardia (SVT) Aberrancy vs Ventricular Tachycardia (VT) Brugada Criteria.pdf]]
+
+- [[Neck Mass]] ^c3e348
+- [[Interstitial lung disease]]
+- [[GERD]]
+- [[Alcoholic Hepatitis]]
+- [[Urinary incontinence]]
+- Disability-adjusted life years (DALY) vs. Years of potential life lost (YPLL)
+	- YPLL doesn't take into account nonlethal.
+	- Educational Objective: DALY is a metric of overall disease burden that takes into account not only the years of life lost caused by death but also the years of healthy life lost as i result of disability. It incorporates morbidity and mortality into one metric.
+- [[Von Willebrand]]
+### Learning Points Part 2
+- [[OGaPLW5a - What is Kussmauls sign]]
+- Pillow covers I guess fuck them for this nonsense. Don't put other correct answers for no reason??? 
+	- 
+	- ![[Screen Shot 2022-06-21 at 5.00.24 PM.png]]
+- Umbilical Hernia
+	- Size ==1.5cm or > is "large"==
+		- Small close on their own before 3 yo
+		- Large won't. Will progressively enlarge the umbilical ring. 
+	- Associations
+		- Hypothyroidism
+		- Beckwith Wiedemann syndrome
+		- Trisomy 18
+		- Trisomy 21
+		- Ehlers Danlos
+- Nephrolithiasis, get a  CT w/ contrast
+	- ![[Screen Shot 2022-06-21 at 5.19.49 PM.png]]
+- [[Postpartum endometritis]]
+- [[Migraine]]
+- Hypothyroidism may be accompanied by increased prolactin concentration, nipple discharge, anovulatory cycles, and oligomenorrhea. 
+- Roux-en-Y gastric bypass surgery -> ==B1== Deficiency
+	- Jejunum is partially bypassed
+	- Can lead to Wernicke, beriberi
+- Hymenoptera venom immunotherapy (VIT) is an effective treatment for people with severe bee sting allergies. 
+- HHNS
+	- Nonketotic hyperosmolar state is a condition of severe hyperglycemia and increased serum osmolality resulting in profound dehydration, without the abnormal production of ketones. 
+	- This typically occurs in patients with **type 2 diabetes mellitus** after an inciting stress event, such as an acute infection. 
+	- The increased osmolality results in excessive osmotic diuresis, which leads to progressive, marked dehydration.
+		- Presenting symptoms include lethargy, thirst, polyuria, altered mental status, and potential coma and death if untreated. 
+	- Laboratory studies typically show hyperglycemia (>500 mg/dL), and increased osmolality (>320 mOsm/kg) without acidosis because of the lack of ketone production.
+		- Bicarb will be closer to normal than DKA.
+		- Severe hyperglycemia 
+			- A hyperglycemia and **neurologic symptoms as a result of markedly increased serum osmolality**. 
+			- Glucose is an osmotically active compound and contributes to profound volume depletion in patients with HHS. The subsequent hyperosmolar state that results from such substantial loss of free water can result in neurologic complications including confusion, coma, or even focal neurologic deficits. 
+			- Laboratory studies may also show pseudohyponatremia and kidney dysfunction from pre-renal azotemia. 
+	- Orthostatic tachycardia and hypotension can be seen in cases of dehydration, such as in this patient, and are marked by positional tachycardia (an increase of at least 20 beats/minute) and hypotension (a decrease of at least 20 mm Hg systolic). 
+	- Treatment should focus on volume repletion, restoration of euglycemia with close monitoring of electrolytes, insulin administration, and careful attention to airway protection.
+		- AMS can progress to coma quickly
+	- 
+- Preterm labor before 34 weeks? Give magnesium, tocolytics, and **betamethasone IM** to enhance fetal lung maturity.
+- Patients with newly diagnosed HIV infection should receive the yearly influenza vaccine in addition to both pneumococcal vaccines. Patients who are not immune to hepatitis B, as evidence by a negative hepatitis B surface antibody, should receive a series of hepatitis B vaccines.
+- Educational Objective: Patients with sickle cell disease may develop acute pain as a result of vaso-occlusive events, which may occur anywhere in the body. Treatment should focus on adequate pain management, hydration, and maintaining appropriate oxygenation. Patients with impending or frank hypoxia should be placed on supplemental oxygen and assessed for the presence of acute chest syndrome.
+- Metoclopramide is a dopamine-2 receptor antagonist utilized for the treatment of nausea and gastroparesis. Metoclopramide may cause parkinsonism. Parkinsonism manifests with muscle rigidity, bradykinesia, resting tremor, and/or postural instability.
+	- ![[Screen Shot 2022-06-21 at 7.23.48 PM.png]]
+- Neurofibromatosis type 2 is characterized by a constellation of findings: bilateral acoustic schwannomas, cataracts, meningiomas, and ependymomas. Annual brain MRI is indicated as routine surveillance for patients with NF2 in order to monitor for the development of new tumors and growth of existing tumors.
+- This older female patient with chronic anterior knee pain and instability is likely experiencing chondromalacia patella. 
+	- Chondromalacia refers to degeneration or inflammation of the peripatellar cartilage, which normally permits the patella to glide smoothly over the surface of the distal femur during flexion and extension of the knee. 
+	- Overuse (eg, in athletes, in overweight patients) is a common trigger for peripatellar cartilage inflammation. Patients generally present with symptoms of knee pain and instability especially when the knee is held in flexion (eg, ascending stairs, sitting with a flexed knee for a prolonged period of time). 
+	- The **examination** is generally unremarkable apart from tenderness over the patella or with range of motion about the patella as is the case with this patient. 
+	- **Diagnosis** is generally clinical, though in cases where the diagnosis is less evident or equivocal, MRI can be employed to confirm the diagnosis and rule out competing differentials. 
+	- **Treatment** is generally nonsurgical, and involves anti-inflammatory medications, rest, ice, and physical therapy to strengthen the surrounding muscles, tendons, and ligaments. Behavioral modification to prevent triggers also reduces symptoms. Surgical approaches have thus far not been shown to significantly improve the condition in isolation.
+- [[Heart Failure|HF]] = diuretic + ACEi
+- [[Drowning]]
+- [[Ulcerative colitis]]
+	- Mesalamine is a salicylate-derived anti-inflammatory drug used for the management of ulcerative colitis. Its primary mechanism of action is by reducing the production of leukotrienes and prostaglandins. Mesalamine is typically well-tolerated, including by patients with sulfa allergies, in contrast to sulfasalazine.
+- [[Cholecystectomy]], person is in pain 8 days later, US inconclusive. Try ERCP. 
+	- Cholecystectomy can be complicated by iatrogenic injury to the biliary tree, including bile duct injury, bile leaks, bowel injury, and bleeding. While most biliary leaks are asymptomatic and resolve spontaneously, some are significant, and symptoms usually appear within 10 days postoperatively. 
+	- Patients can present with fever, abdominal pain, right upper quadrant tenderness, jaundice, and bilious ascites. 
+	- Laboratory studies may show leukocytosis, abnormal liver function tests, and hyperbilirubinemia. 
+	- Endoscopic retrograde cholangiopancreatography (ERCP) evaluates the anatomy and patency of the biliary tree through endoscopic canalization of the duodenal ampulla. 
+	- ERCP is indicated in the evaluation of acute and chronic biliary pathology, where it serves both a diagnostic and therapeutic purpose for post-cholecystectomy biliary leaks and similar biliary tree complications.
+- [[Hodgkin Lymphoma]]
+- [[Transient synovitis]]
+- [[Delirium Tremens]]
+	- Hypomagnesemia
+- [[Unstable Angina - Quiz]] - [[Unstable Angina - Quiz]]
+	- Exertional chest pain accompanied by shortness of breath that improves with rest is suggestive of stable angina pectoris, caused by cardiac ischemia from insufficient perfusion during exertion through narrowed coronary arteries. 
+	- Unstable angina is a type of acute coronary syndrome, which requires admission to the hospital and urgent diagnostic testing, including serial ECGs, troponin testing, cardiology consultation, and a stress test or cardiac catheterization.
+	- Patients with unstable angina are stratified based upon the Thrombolysis in Myocardial Infarction (TIMI) score, which assists in identifying the need for therapeutic anticoagulation and coronary angiography.
+- [[Hereditary hemorrhagic telangiectasia]]
+	- ![[Screen Shot 2022-06-21 at 9.18.34 PM.png]]
+	- Hereditary hemorrhagic telangiectasia (HHT) is the most likely diagnosis. HHT is characterized by the formation of multiple telangiectasias and arteriovenous malformations (AVM) throughout the body. Telangiectasias often form on mucosal surfaces (as seen on this patient's tongue) such as the mouth, lips, nasal mucosa, and gastrointestinal tract. When such lesions rupture, patients may experience epistaxis (a common presenting complaint in HHT), or gastrointestinal bleeding. Larger and often more complex AVMs are known to occur in the central nervous system, lungs, and solid organs. AVMs may present with multiple symptoms depending on their location including cyanosis or strokes (if causing a pulmonary shunt) or signs of liver failure such as hyperammonemia (if resulting in bypass of the liver). A ruptured AVM can cause catastrophic, life-threatening bleeding, especially if located in the brain or spinal cord. HHT is transmitted by autosomal dominant-pattern genetics, thus, should be suspected with a family history of telangiectasias and recurrent bleeding. Diagnosis is based on the Curacao criteria, which include the presence of recurrent bleeding, the presence o of telangiectasias in typical locations, a demonstrated visceral AV, and the presence of a first-degree relative with HHT. Laboratory studies will show normal platelet counts, bleeding times, and coagulation times, as there is no underlying hematologic abnormality. Treatment includes avoidance of blood thinning and antiplatelet agents, supportive care for minor bleeding, iron supplementation if anemia results, and surgical management of larger, complicated, or ruptured AVMs.
+- Cohn disease classically presents with abdominal pain, fever, and bloody diarrhea. Colonoscopy with biopsy and tissue analysis is the diagnostic study of choice.
+- [[Gilbert]]
+	- **Congenital reduction of glucuronyltransferase** is the most likely explanation of this patient's increased total and indirect bilirubin concentration, which is consistent with Gilbert syndrome. Glucuronyltransferase is an enzyme that is responsible for the conjugation of bilirubin. Decreased concentration of this enzyme can lead to the accumulation of unconjugated (indirect) bilirubin, especially during acute illnesses. This patient's presentation with fever, cough, leukocytosis, and a pulmonary infiltrate are suggestive of pneumonia. It is common for patients wi ert syndrome to experience asymptomatic increases in indirect bilirubin during periods o illness and physiologic stress. Gilbert syndrome is not life-threatening, and the **diagnosis can be made clinically**; it does not require the measurement of enzyme concentrations. There is **no specific treatment for Gilbert syndrome**, although this patient should be treated with antibiotics for his pneumonia.
+- Pancreatic enzyme supplementation and fat-soluble vitamin supplementation is the most appropriate next step in mgt with chronic pancreatitis. 
+	- Pancreatic insufficiency, progressive. 
+	- Vitamins ADEK
+	- Chronic abdominal pain, inability to absorb fat vitamins, develop DM...
+- Confirm diagnosis of gardeneralla with a wet mount before treating with metronidazole. 
+- [[Cushing syndrome]]
+	- 24-hour urinary collection for measurement of free cortisol is the most appropriate next step in diagnosis. This previously healthy patient with recent weight gain, irregular menses, hypertension, terminal hair growth, abdominal striae, and truncal obesity has features that are most consistent with Cushing syndrome. Cushing syndrome describes a pathologic state of excess cortisol production and may be caused by either an adrenocorticotropic hormone (ACTH) secreting pituitary tumor (Cushing disease) or may be secondary to the ectopic production of adrenocorticotropic hormone from a tumor elsewhere in the body. There are three tests that can be used to diagnose Cushing syndrome: measurement of 24-hour urine free cortisol, late night salivary cortisol concentration, or the use of the overnight dexamethasone suppression test. Urinary cortisol collection has traditionally been considered the gold standard, and patients with unequivocal hypercortisolism will have a 24-hour cortisol concentration greater than three times the upper limit of normal. After the diagnosis of Cushing syndrome is established, further assessment should focus on identifying the source of adrenocorticotropic hormone production. Most adrenocorticotropic hormone-producing pituitary adenomas will decrease their secretion of adrenocorticotropic hormone in response to high doses of dexamethasone while most ectopic adrenocorticotropic hormoneproducing tumors are completely resistant. Therefore, a dexamethasone suppression test is usually the next step in diagnosis. Imaging is used to localize the tumor and plan for surgery.
+- Bloodstream infection with Candida species, including C. albicans, C. glabrata, and C. tropicalis may result in intraocular seeding of yeasts. Intraocular candidal infection can manifest as chorioretinitis or endophthalmitis. Routine screening examinations in asymptomatic patients with candidemia remain controversial. The majority of patients with intraocular candidal infections can be treated with oral or intravenous systemic antifungals.
+- Prevalence ratios can be used to compare the prevalence of a condition within one population against another population. A prevalence ratio greater than 1.0 indicates that the condition is more prevalent in the population making up the numerator or less prevalent in the population making up the denominator. A prevalence ratio less than 1.0 indicates that the condition is less prevalent in the population making up the numerator, or more prevalent in the population making up the denominator.
+- Cefazolin for surgical prophylaxis 
+	- Cefazolin is a first-generation cephalosporin and is used in the treatment of primarily gram-positive bacterial infections, although it also treats gram-negative bacteria to a lesser degree, including Escherichia coli. It is often used for surgical prophylaxis and in the treatment of skin and soft tissue infections. It plays no role in the It
+- [[Slipped Capital Femoral Epiphysis]] 
+	- Overweight children.
+	- Pain radiates to the knee. 
+- C. trachomatis is a common cause of nongonococcal urethritis and acute cervicitis. Diagnosis is made with nucleic acid amplification testing, and treatment is with doxycycline or azithromycin; however, doxycycline is contraindicated in gravid patients.
+- Good question: 
+	- ![[Screen Shot 2022-06-21 at 9.46.41 PM.png]]
+- 

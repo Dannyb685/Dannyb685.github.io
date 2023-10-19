@@ -1,0 +1,2 @@
+- https://twitter.com/SatyaPatelMD - Inpatient Pocket Card Set
+- [[Pocket Card Set and Resources-20221204T225451Z-001.zip]]

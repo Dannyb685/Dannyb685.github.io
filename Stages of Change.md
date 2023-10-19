@@ -1,0 +1,6 @@
+- Stages of Change:
+    - Precontemplation - pt does not intend to change and has not taken action toward behavior change; could be related to demoralization from prior attempts
+    - Contemplation - pt intends to change, but has not taken action, usually related to awareness of risks vs benefits of change
+    - Preparation - pt intends to change, has taken steps to create plan and mental action, but no current physical action toward behavior change
+    - Action - pt intends to change, currently following through on plan
+    - Maintenance - pt intends to change, has changed, and is taking steps to prevent relapse
